@@ -10,7 +10,7 @@ enum states{
     TURN,
 };
 
-
+//check to see if things are linked
 
 
 void RTC_Init();

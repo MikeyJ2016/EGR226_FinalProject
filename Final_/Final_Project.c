@@ -11,6 +11,7 @@ enum states{
 };
 
 //check to see if things are linked
+//test 2
 
 
 void RTC_Init();

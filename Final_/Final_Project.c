@@ -10,10 +10,14 @@ enum states{
     TURN,
 };
 
+<<<<<<< HEAD
 void SerialRTC_Init();
 void GeneralRTC_Init();
 void ButAlarmRTC_Init();
 void ButTimeRTC_Init();
+=======
+
+>>>>>>> branch 'master' of file:///C:\Users\17342\Documents\GitHub\EGR226_FinalProject
 
 void LCD_pin_init(void);
 void write_command(uint8_t command);
